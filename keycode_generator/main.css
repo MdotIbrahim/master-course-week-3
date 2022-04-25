@@ -1,0 +1,36 @@
+h1 , h2 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 250%;
+}
+h2 {
+    font-size: 200%;
+    color:red;
+}
+.keygen {
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+}
+
+button {
+    background-color: lightseagreen;
+    width: 200px;
+    height: 200px;
+}
+
+p {
+    color: white;
+    font-size: 150%;
+}
+
+.p_event {
+    color:red;
+    font-size: 200%;
+}
+
+#block_container {
+    display:inline;
+    text-align:center;
+    
+}
